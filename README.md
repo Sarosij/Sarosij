@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Development 🎮
 - 🌱 I’m currently learning Unity Game Engine
 - 💞️ I’m looking to collaborate on any game project
-- 📫 How to reach me https://twitter.com/sarosij_
 
 <!---
 Sarosij/Sarosij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
